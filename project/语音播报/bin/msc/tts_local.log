@@ -1,0 +1,180 @@
+============================================================
+Time  2019/10/01 16:30:43 428 
+============================================================
+[2019/10/01 16:30:43 429] tts_local  1837 Linux  
+[2019/10/01 16:30:43 442] tts_local  1873 SYS_MSG_REGCB_LOCAL  
+[2019/10/01 16:30:43 444] tts_local  1888 last gc at  1569918643  
+[2019/10/01 16:30:43 455] tts_local  1873 SYS_MSG_REGCB_LOCAL  
+[2019/10/01 16:30:43 457] tts_local  1888 last gc at  1569918643  
+[2019/10/01 16:30:43 463] tts_local  1680 TTS_LOCAL_MSG_SSB  engine_type=local,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  
+[2019/10/01 16:30:43 471] tts_local  1572 fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2019/10/01 16:30:43 473] tts_local  1575 nil  
+[2019/10/01 16:30:43 476] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2019/10/01 16:30:43 484] tts_local  890  Disperse res  
+[2019/10/01 16:30:43 486] tts_local  994  fo|res/tts/xiaoyan.jet  fo|res/tts/common.jet  
+[2019/10/01 16:30:43 488] tts_local  1579 res_change is  true  
+[2019/10/01 16:30:43 495] tts_local  1595 res change  
+[2019/10/01 16:30:43 498] tts_local  1398 lgi:  nil  nil  
+[2019/10/01 16:30:43 500] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2019/10/01 16:30:43 508] tts_local  890  Disperse res  
+[2019/10/01 16:30:43 510] tts_local  852  file_type:  fo  file_path:  res/tts/xiaoyan.jet  
+[2019/10/01 16:30:43 512] tts_local  852  file_type:  fo  file_path:  res/tts/common.jet  
+[2019/10/01 16:30:43 520] tts_local  1426 fo  fo  res/tts/xiaoyan.jet  0  res/tts/common.jet  0  false  
+[2019/10/01 16:30:43 522] tts_local  1033 speech_plus_setting  0  
+[2019/10/01 16:30:43 523] tts_local  1041 fo  res/tts/xiaoyan.jet  0  0  
+[2019/10/01 16:30:43 535] tts_local  1045 res_ver  0  
+[2019/10/01 16:30:43 542] tts_local  1046 res appid5    
+[2019/10/01 16:30:43 545] tts_local  1047 res_new_old_mark  v5vn  
+[2019/10/01 16:30:43 547] tts_local  1048 res_usr_name    
+[2019/10/01 16:30:43 554] tts_local  1049 check ret  0  
+[2019/10/01 16:30:43 556] tts_local  1129 v5vn  
+[2019/10/01 16:30:43 568] tts_local  1188 now expires:  1569918643  1572403820  
+[2019/10/01 16:30:43 574] auth       294  read auth file failed! err=  11200  
+[2019/10/01 16:30:43 581] tts_local  1033 speech_plus_setting  0  
+[2019/10/01 16:30:43 583] tts_local  1041 fo  res/tts/common.jet  0  0  
+[2019/10/01 16:30:43 595] tts_local  1045 res_ver  0  
+[2019/10/01 16:30:43 596] tts_local  1046 res appid5    
+[2019/10/01 16:30:43 604] tts_local  1047 res_new_old_mark  v5vn  
+[2019/10/01 16:30:43 606] tts_local  1048 res_usr_name    
+[2019/10/01 16:30:43 608] tts_local  1049 check ret  0  
+[2019/10/01 16:30:43 615] tts_local  1129 v5vn  
+[2019/10/01 16:30:43 622] tts_local  1188 now expires:  1569918643  1572403820  
+[2019/10/01 16:30:43 701] tts_local  1475 v5vn  v5vn  
+[2019/10/01 16:30:43 716] auth       294  read auth file failed! err=  11200  
+[2019/10/01 16:30:43 724] tts_local  1518 fo  res/tts/xiaoyan.jet  145  fo  res/tts/common.jet  113  false  func(f406c3e0) 
+[2019/10/01 16:30:43 762] tts_local  1534 engine init success  
+[2019/10/01 16:30:43 768] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2019/10/01 16:30:43 791] tts_local  890  Disperse res  
+[2019/10/01 16:30:43 801] tts_local  1597 reinit ret:  0  
+[2019/10/01 16:30:43 818] tts_local  1314 app auth  
+[2019/10/01 16:30:43 823] auth       621  app  nil  nil  nil  
+[2019/10/01 16:30:43 856] auth       678  ath rquest  {"authorize":[{"busin":"aisound","ver":"2.1.1"}]}  
+[2019/10/01 16:30:43 861] config     91   select default  
+[2019/10/01 16:30:43 879] config     113  use general cloud  
+[2019/10/01 16:30:43 882] transport  645  paramkvsport is   nil  
+[2019/10/01 16:30:43 884] transport  657  ns_enable=  1  
+[2019/10/01 16:30:43 886] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2019/10/01 16:30:43 888] transport  665  net.nettype=  unknown  
+[2019/10/01 16:30:43 890] transport  675  url.full=  nil  
+[2019/10/01 16:30:43 896] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2019/10/01 16:30:43 900] transport  907  net type:  unknown  
+[2019/10/01 16:30:43 916] transport  908  net operator:  def  
+[2019/10/01 16:30:43 921] transport  909  use proxy:  false  
+[2019/10/01 16:30:43 927] auth       733  not login!  
+[2019/10/01 16:30:43 944] auth       570  [session] send auth request  
+[2019/10/01 16:30:43 948] transport  1105 session.domain=  open.xf-yun.com  
+[2019/10/01 16:30:43 967] transport  1106 url.host=  open.xf-yun.com  
+[2019/10/01 16:30:43 971] transport  1083 NAMESERVER START  
+[2019/10/01 16:30:43 975] transport  1086 name =   ath  
+[2019/10/01 16:30:43 990] ns         634  ntt=  unknown  
+[2019/10/01 16:30:43 995] transport  1089 trans,ns_inprog =  0  
+[2019/10/01 16:30:44 000] ns         582  name server start  
+[2019/10/01 16:30:44 018] ns         588  ns_sub =   ath  
+[2019/10/01 16:30:44 022] ns         596  ns_host =   open.xf-yun.com  
+[2019/10/01 16:30:44 029] ns         475  ns_host=  open.xf-yun.com  
+[2019/10/01 16:30:44 035] ns         555  net_type =  standard  
+[2019/10/01 16:30:44 048] ns         556  cmwapascmnet =  
+[2019/10/01 16:30:44 052] ns         557  uniwapasuninet =  
+[2019/10/01 16:30:44 056] ns         558  ctwapasctnet =  
+[2019/10/01 16:30:44 062] ns         576  host=  hdns.xf-yun.com  
+[2019/10/01 16:30:44 076] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2019/10/01 16:30:44 086] auth       577  0  
+[2019/10/01 16:30:44 089] auth       540  lver:  nil  
+[2019/10/01 16:30:44 097] auth       545  cfg_ver:  nil  
+[2019/10/01 16:30:44 110] transport  1860 transport_obj.send | in  
+[2019/10/01 16:30:44 114] transport  1866 self.msg_flag_q  table(f4080a70) 
+[2019/10/01 16:30:44 118] transport  1867 self.msg_q  table(f4080db0) 
+[2019/10/01 16:30:44 122] transport  1799 transport_obj.try2send | in  
+[2019/10/01 16:30:44 131] transport  1800 self.soc  nil  
+[2019/10/01 16:30:44 134] transport  1801 self.connected  false  
+[2019/10/01 16:30:44 135] transport  1802 self.latesterr  0  
+[2019/10/01 16:30:44 137] transport  1873 transport_obj.send | out  
+[2019/10/01 16:30:44 139] tts_local  1367 forbid_aisound =  nil  
+[2019/10/01 16:30:44 144] tts_local  1644 set voice name:  xiaoyan  
+[2019/10/01 16:30:44 147] tts_local  1646 set default voice name:  xiaoyan  
+[2019/10/01 16:30:44 150] tts_local  295  speed increase:  1  
+[2019/10/01 16:30:44 158] tts_local  308  rcn:  0  
+[2019/10/01 16:30:44 163] tts_local  321  bgs:  0  
+[2019/10/01 16:30:44 165] tts_local  647  v5vn  
+[2019/10/01 16:30:44 173] tts_local  696  fit:  false  
+[2019/10/01 16:30:44 179] tts_local  551  type:  speed  value:  50  weight:  50  double_weight:  100  
+[2019/10/01 16:30:44 185] tts_local  551  type:  pitch  value:  50  weight:  50  double_weight:  100  
+[2019/10/01 16:30:44 195] tts_local  551  type:  volume  value:  50  weight:  50  double_weight:  100  
+[2019/10/01 16:30:44 199] tts_local  580  sample_rate:  528  
+[2019/10/01 16:30:44 209] tts_local  593  text_encoding:  65001  
+[2019/10/01 16:30:44 215] tts_local  614  rdn:  1  
+[2019/10/01 16:30:44 224] tts_local  627  effect:  0  
+[2019/10/01 16:30:44 229] tts_local  1738 tts_local.ssb ret:  0  
+[2019/10/01 16:30:44 237] tts_local  1888 last gc at  1569918643  
+[2019/10/01 16:30:44 240] tts_local  1746 TTS_LOCAL_MSG_TEXT  
+[2019/10/01 16:30:44 243] tts_local  1753 base64 =  5oKo5ouo5omT55qE55S16K+d5pqC5pe25peg5Lq65o6l5ZCs77yM6K+356iN5ZCO5YaN5ouoCg==  
+[2019/10/01 16:30:44 258] tts_local  1888 last gc at  1569918643  
+[2019/10/01 16:30:44 264] network    245  dns resp  10214  ns1  
+[2019/10/01 16:30:44 276] ns         454  ns dns failed, err =   10214  
+[2019/10/01 16:30:44 278] network    445  gethttpresp2  117.121.48.5  80  ns2  
+[2019/10/01 16:30:44 281] network    465  prot_type  tcp  
+[2019/10/01 16:30:44 297] transport  296  [dns] [1] failed! 10214  
+[2019/10/01 16:30:44 307] transport  77   dns_failed  
+[2019/10/01 16:30:44 310] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2019/10/01 16:30:44 312] network    90   ipfromenv ,  ipcfg  open.xf-yun.com  def  nil  
+[2019/10/01 16:30:44 323] transport  1304 [soc] connect   42.62.116.18  1028  
+[2019/10/01 16:30:44 327] transport  1316 mspsoc.open,prot_type=  tcp  
+[2019/10/01 16:30:44 366] network    418  soc error  10202  ns2  
+[2019/10/01 16:30:44 380] ns         253  name server http resp  10202  
+[2019/10/01 16:30:44 383] ns         412  ns response failed, err =  10202  
+[2019/10/01 16:30:44 386] ns         114  ns_host=  open.xf-yun.com  
+[2019/10/01 16:30:44 396] ns         116  use default ip  
+[2019/10/01 16:30:44 399] transport  1063 ns_ip =   42.62.116.18  
+[2019/10/01 16:30:44 410] transport  1064 ip_type =  def_athopen.xf-yun.com  
+[2019/10/01 16:30:44 412] ns         670  no data in ns_q  
+[2019/10/01 16:30:44 420] ns         671  conti_ns,ns_inprog =   1  
+[2019/10/01 16:30:44 425] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  210  ,data:  udata(f40409f8) 
+[2019/10/01 16:30:44 432] transport  542  MSC:[soc] [1] error 10202 101!  
+[2019/10/01 16:30:44 441] transport  67   clear_ip ip_type =  def_athopen.xf-yun.com  
+[2019/10/01 16:30:44 444] transport  342  soc_conn_failed  
+[2019/10/01 16:30:44 450] network    95   iptoenv ,  ipcache  open.xf-yun.com  def  nil  
+[2019/10/01 16:30:44 465] transport  416  switch 80  
+[2019/10/01 16:30:44 502] transport  1332 [soc] disconnect   
+[2019/10/01 16:30:44 517] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  10864  ,data:  udata(f4006398) 
+[2019/10/01 16:30:44 536] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  4014  ,data:  udata(f4050698) 
+[2019/10/01 16:30:44 559] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  3858  ,data:  udata(f40506e8) 
+[2019/10/01 16:30:44 572] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  6798  ,data:  udata(f4030b78) 
+[2019/10/01 16:30:44 579] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  15812  ,data:  udata(f4066128) 
+[2019/10/01 16:30:44 585] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  3840  ,data:  udata(f40809b8) 
+[2019/10/01 16:30:44 610] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  8262  ,data:  udata(f403e5e8) 
+[2019/10/01 16:30:44 632] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  6664  ,data:  udata(f407fd48) 
+[2019/10/01 16:30:44 662] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  11390  ,data:  udata(f407b4d8) 
+[2019/10/01 16:30:44 686] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  7678  ,data:  udata(f407f0f8) 
+[2019/10/01 16:30:44 699] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  8518  ,data:  udata(f407f218) 
+[2019/10/01 16:30:44 721] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4081508) 
+[2019/10/01 16:30:44 729] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f407ff98) 
+[2019/10/01 16:30:44 740] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f407ecf8) 
+[2019/10/01 16:30:44 750] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4065de8) 
+[2019/10/01 16:30:44 761] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f400a0f8) 
+[2019/10/01 16:30:44 771] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4028dc8) 
+[2019/10/01 16:30:44 778] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f403eb58) 
+[2019/10/01 16:30:44 787] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4008f08) 
+[2019/10/01 16:30:44 798] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f402f628) 
+[2019/10/01 16:30:44 809] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f403ab18) 
+[2019/10/01 16:30:44 819] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4046728) 
+[2019/10/01 16:30:44 829] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4046598) 
+[2019/10/01 16:30:44 838] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f407e028) 
+[2019/10/01 16:30:44 854] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4085d58) 
+[2019/10/01 16:30:44 863] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f40758c8) 
+[2019/10/01 16:30:44 873] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f4009178) 
+[2019/10/01 16:30:44 886] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f402f168) 
+[2019/10/01 16:30:44 894] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(f403af48) 
+[2019/10/01 16:30:44 902] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  160  ,data:  udata(f407fc88) 
+[2019/10/01 16:30:44 913] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  54  ,nSize:  212  ,data:  udata(f407d858) 
+[2019/10/01 16:30:44 930] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  54  ,nSize:  5380  ,data:  udata(f407f978) 
+[2019/10/01 16:30:44 953] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  54  ,nSize:  7324  ,data:  udata(f407f7f8) 
+[2019/10/01 16:30:44 971] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  54  ,nSize:  7196  ,data:  udata(f407f8c8) 
+[2019/10/01 16:30:44 997] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  54  ,nSize:  5856  ,data:  udata(dc004318) 
+[2019/10/01 16:30:45 016] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  54  ,nSize:  6254  ,data:  udata(f40828b8) 
+[2019/10/01 16:30:45 029] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  54  ,nSize:  9294  ,data:  udata(f4053d08) 
+[2019/10/01 16:30:45 037] tts_local  941  TTS_LOCAL_CB_END  0  nil  
+[2019/10/01 16:30:45 363] tts_local  1795 TTS_LOCAL_MSG_END  0  
+[2019/10/01 16:30:45 367] tts_local  1199 plog_process  {"u_lrs":1966,"u_txt":50,"u_frs":1086,"dur":1980,"ret":0,"csid":"ctts1PdHHBHjvizf-JN-aauT6lfD08rmcv","hints":"Normal","stime":"2019/10/01 16:30:43 380"}  nil  
+[2019/10/01 16:30:45 393] tts_local  1888 last gc at  1569918643  
+[2019/10/01 16:30:45 454] tts_local  1853 SYS_MSG_SHUTDOWN_LOCAL  
+[2019/10/01 16:30:45 463] tts_local  1888 last gc at  1569918643  
