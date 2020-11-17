@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res_photo/fliter.png</file>
+        <file>res_photo/red.png</file>
+        <file>res_photo/blue.png</file>
+        <file>res_photo/green.png</file>
+        <file>res_photo/pink.png</file>
+        <file>res_photo/purple.png</file>
+        <file>res_photo/yellow.png</file>
+        <file>res_photo/white.png</file>
+        <file>res_photo/black.png</file>
+        <file>pss/blackOrange.css</file>
+        <file>pss/1.css</file>
+        <file>res_photo/arrow_down_1.png</file>
+    </qresource>
+</RCC>
