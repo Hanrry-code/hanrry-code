@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pss">
+        <file>blackOrange.css</file>
+    </qresource>
+</RCC>
